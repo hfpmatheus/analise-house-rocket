@@ -63,6 +63,7 @@ Nesse tópico, mostro qual foi o meu racícionio pra resolver o problema em ques
 - 3.1.3: Ferramentas:
 
   Fonte de dados: https://www.kaggle.com/harlfoxem/housesalesprediction
+  
   Ferramentas: 
 
   - Python 3.8
@@ -79,7 +80,7 @@ Nesse tópico, mostro qual foi o meu racícionio pra resolver o problema em ques
 
 #### 3.5. Análise Exploratória: Criação e validação de hipóteses.
 
-###@ 3.6. Deploy na nuvem: Deploy do app streamlit no Heroku pra visualização em qualquer dispositivo com internet.
+#### 3.6. Deploy na nuvem: Deploy do app streamlit no Heroku pra visualização em qualquer dispositivo com internet.
 
 ## 4. Os 5 principais insights dos dados:
 
@@ -102,15 +103,15 @@ R: **Obversamos que, em média, os imóveis antigos são 20% mais baratos do que
 
 ##
 
-#### Hipótese 4: Imóveis com 3 banheiros tem um crescimento de preço YoY (Year over Year) de 20%. (Uma sugestão seria construir mais banheiros nos imóveis adquiridos)
+#### Hipótese 4: Imóveis com 3 banheiros estão ficando mais caros.
 
-R:
+R: **Imóveis com três banheiros estão ficando mais baratos, ano por ano. Disso, tira-se a conclusão de que não vale a pena investir em número de banheiros num imóvel que já possui três ou mais.**
 
 ##
 
 #### Hipótese 5: Apartamentos são, em média, 20% mais baratos do que casas.
 
-R:
+R: **Apartamentos são, na verdade, 40% mais baratos do que casas em média.**
 
 ## 5. Resultados financeiros para o negócio:
 
