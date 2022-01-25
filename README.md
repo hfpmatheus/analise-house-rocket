@@ -1,6 +1,6 @@
 # Projeto de Insights: House Rocket Company.
 
-<img src="https://www.mundi.com.br/rimg/dimg/72/59/d4891b32-city-7054-17745b4e13e.jpg?width=1366&height=768&xhint=1003&yhint=1402&crop=true" alt="drawing" width="80%"/>
+<img src="https://www.mundi.com.br/rimg/dimg/72/59/d4891b32-city-7054-17745b4e13e.jpg?width=1366&height=768&xhint=1003&yhint=1402&crop=true" alt="drawing" width="70%"/>
 
 ## 1. Questão de negócio:
 
