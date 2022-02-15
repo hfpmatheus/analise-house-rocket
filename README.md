@@ -2,7 +2,7 @@
 
 <img src="https://www.mundi.com.br/rimg/dimg/72/59/d4891b32-city-7054-17745b4e13e.jpg?width=1366&height=768&xhint=1003&yhint=1402&crop=true" alt="drawing" width="70%"/>
 
-## Descrição rápida: 
+## Descrição: 
 
 Esse é um projeto do tipo insight, onde assumo a House Rocket como uma empresa fictícia americana cujo modelo de negócio é compra e revenda de imóveis. Seu CEO  se depara com dificuldade em definir os imóveis a serem adquiridos devida a quantidade massiva de dados, para isso utilizo as ferramentas de Ciência de Dados pra analisar o dataset em questão. A estratégia é comprar imóveis abaixo do preço mediano de mercado em boas condições, reformar alguns de seus atributos e revendê-los mais caros.
 
